@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/TM02_proj1.zip_expanded/Wipro-Training-Module1---Employe-Information---Input-Display-master/src/com/w3epic/wiprotraining/Main.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.w3epic.wiprotraining.Main"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="TM02_proj1.zip_expanded"/>
+</launchConfiguration>
